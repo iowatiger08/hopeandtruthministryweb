@@ -1,0 +1,103 @@
+body{
+		/*background-image:url( ../img/tigerdragonedt1000h.jpg );*/
+
+	background-repeat: no-repeat;
+
+	background-attachment:fixed;
+}
+a{
+	text-decoration:none;
+	color:black;
+	font-weight:bold;'
+}
+h2.feature-headline {
+  font-family: arial, helvetica, sans-serif;
+  font-weight:bold;
+  color:#030303; 
+  position:relative;
+  align: left;
+  margin-left: 10px;"
+}
+
+div#ministry.row{
+  background: #ADD8E6;
+ 
+}
+
+div#discipline.row{
+  background: #d6ebf2;
+ 
+}
+div#LecturesAndSkills.row{
+  background: #d6ebf2;
+ 
+}
+
+div#stfrancis{
+  background: #99ff99;
+}
+
+h2.feature-headline-right {
+  font-family:  arial, helvetica, sans-serif;
+  font-weight:bold;
+  color:#030303;
+  position:relative;
+  align: right;
+}
+
+p.feature {
+  /*font-family: Georgia, serif; 
+  color:#030303;
+  z-index: 10;       */
+}
+p{
+	margin:40px;
+}
+
+ul.pfooter{
+   list-style-type:none;
+}
+
+ul.listabout{
+	list-style-type:none;
+	left-margin:25px;
+}
+
+a.footer-li-a{
+text-decoration:none;
+font-weight:bold;
+color:#030303;
+/*visited:#030303;  
+active:#030303;     */
+font-size:12pt;
+margin:10px;
+}
+
+p.pfooter{
+text-decoration:none;
+font-weight:bold;
+color:#030303;
+text-align:right;
+/*visited:#030303;  
+active:#030303;     */
+font-size:12pt;
+margin:10px;
+}
+
+p.footer-center{
+text-decoration:none;
+font-weight:bold;
+color:#030303;
+text-align:center;
+/*visited:#030303;  
+active:#030303;     */
+font-size:12pt;
+margin:10px;
+}
+
+#pfooter{
+background: #00CC99;
+/* url() 
+background-image: url(../img/footer_back.gif);
+*/
+}
